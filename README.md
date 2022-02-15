@@ -1,3 +1,2 @@
-# C_practice
-to practice language c
-practice git
+# C
+这里的代码主要用于C语言的练习
